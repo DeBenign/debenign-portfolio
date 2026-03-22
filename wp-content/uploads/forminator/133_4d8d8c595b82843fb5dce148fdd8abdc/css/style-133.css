@@ -285,13 +285,16 @@
 
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-input {
 							background-color: rgba(178,178,178,0.23);
-					}
+							color: #ffffff;
+			}
 
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-iti-input .iti__selected-dial-code {
+					color: #ffffff;
 			}
 
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-input:disabled,
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-calculation:disabled {
+					-webkit-text-fill-color: #ffffff;
 				opacity: 1;
 	}
 
@@ -314,6 +317,7 @@
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-input input:hover,
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-input input:focus,
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-input input:active {
+					color: #ffffff;
 			}
 
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-input::placeholder {
@@ -394,7 +398,8 @@
 
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-textarea {
 							background-color: rgba(178,178,178,0.23);
-					}
+							color: #ffffff;
+			}
 
 	.forminator-ui#forminator-module-133.forminator-design--default .forminator-textarea:hover {
 			}
@@ -1299,7 +1304,7 @@
 					border-color: #777771;
 				border-radius: 2px;
 					background-color: rgba(178,178,178,0.23);
-							color: #000000;
+							color: #ffffff;
 				transition: 0.2s ease;
 	}
 
